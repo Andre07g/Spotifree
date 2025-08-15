@@ -1,0 +1,442 @@
+[{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f28"
+  },
+  "username": "AndresGG",
+  "email": "andresgg@example.com",
+  "premium": true,
+  "likes": [
+    {
+      "$oid": "689f9f7638c73af69dba7233"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7234"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7235"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7249"
+    },
+    {
+      "$oid": "689fa02338c73af69dba724a"
+    },
+    {
+      "$oid": "689fa02338c73af69dba724b"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ed8"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867edf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f29"
+  },
+  "username": "LauraS",
+  "email": "lauras@example.com",
+  "premium": false,
+  "likes": [
+    {
+      "$oid": "689f9f7638c73af69dba7236"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7237"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7238"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7239"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ed1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f2a"
+  },
+  "username": "CarlosX",
+  "email": "carlosx@example.com",
+  "premium": true,
+  "likes": [
+    {
+      "$oid": "689f9f7638c73af69dba723a"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7244"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7245"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7246"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7247"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ed0"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee6"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ed5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f2b"
+  },
+  "username": "MafeL",
+  "email": "mafel@example.com",
+  "premium": false,
+  "likes": [
+    {
+      "$oid": "689f9f7638c73af69dba723b"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba723c"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba723d"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7240"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ecb"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee5"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee3"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ed7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f2c"
+  },
+  "username": "DiegoH",
+  "email": "diegoh@example.com",
+  "premium": true,
+  "likes": [
+    {
+      "$oid": "689fa02338c73af69dba7241"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7242"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7243"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7248"
+    }
+  ],
+  "episodes": []
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f2d"
+  },
+  "username": "ValeM",
+  "email": "valem@example.com",
+  "premium": false,
+  "likes": [
+    {
+      "$oid": "689f9f7638c73af69dba723e"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba723f"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7246"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7247"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7248"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ed6"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f2e"
+  },
+  "username": "OscarT",
+  "email": "oscart@example.com",
+  "premium": true,
+  "likes": [
+    {
+      "$oid": "689fa02338c73af69dba7249"
+    },
+    {
+      "$oid": "689fa02338c73af69dba724a"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867edd"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f2f"
+  },
+  "username": "DaniP",
+  "email": "danip@example.com",
+  "premium": false,
+  "likes": [
+    {
+      "$oid": "689fa02338c73af69dba7240"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7241"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7242"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7243"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7244"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ee8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f30"
+  },
+  "username": "JuliR",
+  "email": "julir@example.com",
+  "premium": true,
+  "likes": [
+    {
+      "$oid": "689fa02338c73af69dba7245"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7246"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7247"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867edb"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee4"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ecf"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867eda"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f31"
+  },
+  "username": "SantiZ",
+  "email": "santiz@example.com",
+  "premium": false,
+  "likes": [
+    {
+      "$oid": "689fa02338c73af69dba7248"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7249"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ecf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f32"
+  },
+  "username": "NicoF",
+  "email": "nicof@example.com",
+  "premium": true,
+  "likes": [
+    {
+      "$oid": "689fa02338c73af69dba724b"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7240"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7241"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7242"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7243"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7244"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7245"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ed2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f33"
+  },
+  "username": "SofiQ",
+  "email": "sofiq@example.com",
+  "premium": false,
+  "likes": [
+    {
+      "$oid": "689fa02338c73af69dba7246"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7247"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7248"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7249"
+    },
+    {
+      "$oid": "689fa02338c73af69dba724a"
+    }
+  ],
+  "episodes": []
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f34"
+  },
+  "username": "MatiL",
+  "email": "matil@example.com",
+  "premium": true,
+  "likes": [
+    {
+      "$oid": "689fa02338c73af69dba724b"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7240"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7241"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ee7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f35"
+  },
+  "username": "PauV",
+  "email": "pauv@example.com",
+  "premium": false,
+  "likes": [
+    {
+      "$oid": "689f9f7638c73af69dba723c"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7249"
+    },
+    {
+      "$oid": "689fa02338c73af69dba724a"
+    },
+    {
+      "$oid": "689fa02338c73af69dba724b"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ed9"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ed5"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689fa9f01508e8dd55867f36"
+  },
+  "username": "LunaK",
+  "email": "lunak@example.com",
+  "premium": true,
+  "likes": [
+    {
+      "$oid": "689f9f7638c73af69dba723a"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7240"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7241"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7242"
+    }
+  ],
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867edf"
+    }
+  ]
+}]

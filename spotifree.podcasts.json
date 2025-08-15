@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "689fa8961508e8dd55867f04"
+  },
+  "name": "Risas y Anécdotas",
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ecb"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ecc"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ecd"
+    }
+  ],
+  "followers": 52000
+},
+{
+  "_id": {
+    "$oid": "689fa8961508e8dd55867f05"
+  },
+  "name": "TecnoMundo",
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ece"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ecf"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ed0"
+    }
+  ],
+  "followers": 78400
+},
+{
+  "_id": {
+    "$oid": "689fa8961508e8dd55867f06"
+  },
+  "name": "Crónicas del Pasado",
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ed1"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ed2"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ed3"
+    }
+  ],
+  "followers": 65400
+},
+{
+  "_id": {
+    "$oid": "689fa8961508e8dd55867f07"
+  },
+  "name": "Misterios Reales",
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ed4"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ed5"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ed6"
+    }
+  ],
+  "followers": 90200
+},
+{
+  "_id": {
+    "$oid": "689fa8961508e8dd55867f08"
+  },
+  "name": "Aprender Hoy",
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ed7"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ed8"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ed9"
+    }
+  ],
+  "followers": 43800
+},
+{
+  "_id": {
+    "$oid": "689fa8961508e8dd55867f09"
+  },
+  "name": "Ciencia Sin Fronteras",
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867eda"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867edb"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867edc"
+    }
+  ],
+  "followers": 67200
+},
+{
+  "_id": {
+    "$oid": "689fa8961508e8dd55867f0a"
+  },
+  "name": "Historias Fantásticas",
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867edd"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ede"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867edf"
+    }
+  ],
+  "followers": 38500
+},
+{
+  "_id": {
+    "$oid": "689fa8961508e8dd55867f0b"
+  },
+  "name": "Salud y Vida",
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ee0"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee1"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee2"
+    }
+  ],
+  "followers": 51200
+},
+{
+  "_id": {
+    "$oid": "689fa8961508e8dd55867f0c"
+  },
+  "name": "Deportes al Día",
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ee3"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee4"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee5"
+    }
+  ],
+  "followers": 46100
+},
+{
+  "_id": {
+    "$oid": "689fa8961508e8dd55867f0d"
+  },
+  "name": "Negocios y Estrategia",
+  "episodes": [
+    {
+      "$oid": "689fa7b31508e8dd55867ee6"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee7"
+    },
+    {
+      "$oid": "689fa7b31508e8dd55867ee8"
+    }
+  ],
+  "followers": 74100
+}]

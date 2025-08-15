@@ -1,0 +1,191 @@
+[{
+  "_id": {
+    "$oid": "689fa6ed1508e8dd55867ebf"
+  },
+  "title": "Vientos y Recuerdos",
+  "songs": [
+    {
+      "$oid": "689f92ba19d2e41837a63784"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7233"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7234"
+    }
+  ],
+  "artist": {
+    "$oid": "689f91fb19d2e41837a63783"
+  }
+},
+{
+  "_id": {
+    "$oid": "689fa6ed1508e8dd55867ec0"
+  },
+  "title": "Caminos de Agosto",
+  "songs": [
+    {
+      "$oid": "689f9f7638c73af69dba7235"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7236"
+    }
+  ],
+  "artist": {
+    "$oid": "689fa09f38c73af69dba7257"
+  }
+},
+{
+  "_id": {
+    "$oid": "689fa6ed1508e8dd55867ec1"
+  },
+  "title": "Luz y Ceniza",
+  "songs": [
+    {
+      "$oid": "689f9f7638c73af69dba7237"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7238"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7239"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba723a"
+    }
+  ],
+  "artist": {
+    "$oid": "689fa09f38c73af69dba7258"
+  }
+},
+{
+  "_id": {
+    "$oid": "689fa6ed1508e8dd55867ec2"
+  },
+  "title": "Sombras y Fronteras",
+  "songs": [
+    {
+      "$oid": "689f9f7638c73af69dba723b"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba723c"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba723d"
+    }
+  ],
+  "artist": {
+    "$oid": "689fa09f38c73af69dba7259"
+  }
+},
+{
+  "_id": {
+    "$oid": "689fa6ed1508e8dd55867ec3"
+  },
+  "title": "Neón y Silencio",
+  "songs": [
+    {
+      "$oid": "689f9f7638c73af69dba723e"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba723f"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7240"
+    },
+    {
+      "$oid": "689f9f7638c73af69dba7241"
+    }
+  ],
+  "artist": {
+    "$oid": "689fa09f38c73af69dba725a"
+  }
+},
+{
+  "_id": {
+    "$oid": "689fa6ed1508e8dd55867ec4"
+  },
+  "title": "Café de Medianoche",
+  "songs": [
+    {
+      "$oid": "689fa02338c73af69dba7242"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7243"
+    }
+  ],
+  "artist": {
+    "$oid": "689fa09f38c73af69dba725b"
+  }
+},
+{
+  "_id": {
+    "$oid": "689fa6ed1508e8dd55867ec5"
+  },
+  "title": "Humo y Arena",
+  "songs": [
+    {
+      "$oid": "689fa02338c73af69dba7244"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7245"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7246"
+    }
+  ],
+  "artist": {
+    "$oid": "689fa09f38c73af69dba725c"
+  }
+},
+{
+  "_id": {
+    "$oid": "689fa6ed1508e8dd55867ec6"
+  },
+  "title": "Mensajes en la Nieve",
+  "songs": [
+    {
+      "$oid": "689fa02338c73af69dba7247"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7248"
+    },
+    {
+      "$oid": "689fa02338c73af69dba7249"
+    }
+  ],
+  "artist": {
+    "$oid": "689fa09f38c73af69dba725d"
+  }
+},
+{
+  "_id": {
+    "$oid": "689fa6ed1508e8dd55867ec7"
+  },
+  "title": "Besos y Puertas",
+  "songs": [
+    {
+      "$oid": "689fa02338c73af69dba724a"
+    },
+    {
+      "$oid": "689fa02338c73af69dba724b"
+    }
+  ],
+  "artist": {
+    "$oid": "689fa09f38c73af69dba725e"
+  }
+},
+{
+  "_id": {
+    "$oid": "689fa6ed1508e8dd55867ec8"
+  },
+  "title": "Latidos del Alba",
+  "songs": [
+    {
+      "$oid": "689fa02338c73af69dba7240"
+    }
+  ],
+  "artist": {
+    "$oid": "689fa09f38c73af69dba725f"
+  }
+}]

@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ecb"
+  },
+  "title": "Risas y Anécdotas - Episodio 1",
+  "duration": 25.3,
+  "category": "Comedy"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ecc"
+  },
+  "title": "Risas y Anécdotas - Episodio 2",
+  "duration": 28.7,
+  "category": "Comedy"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ecd"
+  },
+  "title": "Risas y Anécdotas - Episodio 3",
+  "duration": 22.1,
+  "category": "Comedy"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ece"
+  },
+  "title": "TecnoMundo - Episodio 1",
+  "duration": 45,
+  "category": "Technology"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ecf"
+  },
+  "title": "TecnoMundo - Episodio 2",
+  "duration": 38.2,
+  "category": "Technology"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ed0"
+  },
+  "title": "TecnoMundo - Episodio 3",
+  "duration": 52.5,
+  "category": "Technology"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ed1"
+  },
+  "title": "Crónicas del Pasado - Episodio 1",
+  "duration": 40,
+  "category": "History"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ed2"
+  },
+  "title": "Crónicas del Pasado - Episodio 2",
+  "duration": 35.7,
+  "category": "History"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ed3"
+  },
+  "title": "Crónicas del Pasado - Episodio 3",
+  "duration": 47.2,
+  "category": "History"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ed4"
+  },
+  "title": "Misterios Reales - Episodio 1",
+  "duration": 55.1,
+  "category": "True Crime"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ed5"
+  },
+  "title": "Misterios Reales - Episodio 2",
+  "duration": 42.6,
+  "category": "True Crime"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ed6"
+  },
+  "title": "Misterios Reales - Episodio 3",
+  "duration": 48.9,
+  "category": "True Crime"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ed7"
+  },
+  "title": "Aprender Hoy - Episodio 1",
+  "duration": 30.4,
+  "category": "Education"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ed8"
+  },
+  "title": "Aprender Hoy - Episodio 2",
+  "duration": 33.5,
+  "category": "Education"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ed9"
+  },
+  "title": "Aprender Hoy - Episodio 3",
+  "duration": 28,
+  "category": "Education"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867eda"
+  },
+  "title": "Ciencia Sin Fronteras - Episodio 1",
+  "duration": 50,
+  "category": "Science"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867edb"
+  },
+  "title": "Ciencia Sin Fronteras - Episodio 2",
+  "duration": 42.8,
+  "category": "Science"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867edc"
+  },
+  "title": "Ciencia Sin Fronteras - Episodio 3",
+  "duration": 46.2,
+  "category": "Science"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867edd"
+  },
+  "title": "Historias Fantásticas - Episodio 1",
+  "duration": 15.5,
+  "category": "Fiction"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ede"
+  },
+  "title": "Historias Fantásticas - Episodio 2",
+  "duration": 18.3,
+  "category": "Fiction"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867edf"
+  },
+  "title": "Historias Fantásticas - Episodio 3",
+  "duration": 20,
+  "category": "Fiction"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ee0"
+  },
+  "title": "Salud y Vida - Episodio 1",
+  "duration": 34.2,
+  "category": "Health"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ee1"
+  },
+  "title": "Salud y Vida - Episodio 2",
+  "duration": 29.8,
+  "category": "Health"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ee2"
+  },
+  "title": "Salud y Vida - Episodio 3",
+  "duration": 32.5,
+  "category": "Health"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ee3"
+  },
+  "title": "Deportes al Día - Episodio 1",
+  "duration": 27.4,
+  "category": "Sports"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ee4"
+  },
+  "title": "Deportes al Día - Episodio 2",
+  "duration": 31.7,
+  "category": "Sports"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ee5"
+  },
+  "title": "Deportes al Día - Episodio 3",
+  "duration": 26.1,
+  "category": "Sports"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ee6"
+  },
+  "title": "Negocios y Estrategia - Episodio 1",
+  "duration": 40.5,
+  "category": "Business"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ee7"
+  },
+  "title": "Negocios y Estrategia - Episodio 2",
+  "duration": 44.8,
+  "category": "Business"
+},
+{
+  "_id": {
+    "$oid": "689fa7b31508e8dd55867ee8"
+  },
+  "title": "Negocios y Estrategia - Episodio 3",
+  "duration": 37,
+  "category": "Business"
+}]

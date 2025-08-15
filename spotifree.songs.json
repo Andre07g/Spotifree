@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "689f92ba19d2e41837a63784"
+  },
+  "title": "Chachacha",
+  "genre": "Acoustic",
+  "lyrics": "Dame de tu vida y de tu tiempo Suficientes para ver Dentro de tus ojos el momento Que me obligue a renacer Dame vida y dame aliento Que yo ya perdí el conocimiento Solo quédate un momento Hasta evaporarnos en el viento",
+  "duration": 3.2
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba7233"
+  },
+  "title": "Luz de Agosto",
+  "genre": "Indie Pop",
+  "lyrics": "Hoy miré tu sombra en el cristal\nParecía hablarme sin hablar\nLuz de agosto, voz del mar\nTus recuerdos vienen y se van",
+  "duration": 3.4
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba7234"
+  },
+  "title": "Ceniza en la piel",
+  "genre": "Rock Alternativo",
+  "lyrics": "Y en cada beso se esconde el dolor\nCeniza en la piel, fuego sin calor\nLa noche cae y vuelve a doler\nLo que no fuimos, lo que no fue",
+  "duration": 4.1
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba7235"
+  },
+  "title": "Tierra y Miel",
+  "genre": "Folk",
+  "lyrics": "Caminamos bajo cielos de papel\nCon los pies descalzos sobre tierra y miel\nTu risa era lluvia, tu voz era luz\nY el mundo giraba si estabas tú",
+  "duration": 3.7
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba7236"
+  },
+  "title": "Dime que no",
+  "genre": "Pop Latino",
+  "lyrics": "Dime que no si no vas a quedarte\nNo prometas soles si no sabes darme\nNo me mires como si aún doliera\nDime que no y deja que muera",
+  "duration": 3.3
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba7237"
+  },
+  "title": "Bajo la lluvia",
+  "genre": "Balada Romántica",
+  "lyrics": "Bajo la lluvia nos besamos sin miedo\nMojados de amor, mojados de deseo\nTus labios eran fuego y cielo\nY el mundo desapareció en un parpadeo",
+  "duration": 4
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba7238"
+  },
+  "title": "Electric Alma",
+  "genre": "Synthpop",
+  "lyrics": "Cables y luces en mi piel\nTu voz digital suena tan bien\nElectric alma, conexión fatal\nUn amor de código inmortal",
+  "duration": 3.6
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba7239"
+  },
+  "title": "Reloj sin tiempo",
+  "genre": "Rock",
+  "lyrics": "Somos dos agujas sin razón\nGirando dentro del mismo reloj\nTiempo sin minutos, latidos al revés\nUn amor que no sabe por qué",
+  "duration": 4.3
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba723a"
+  },
+  "title": "Flor Fantasma",
+  "genre": "Electrofolk",
+  "lyrics": "Flor fantasma que me vino a buscar\nCon aromas de un sueño sin final\nTu silueta brilla bajo el sol lunar\nY tus pétalos me vuelven a llamar",
+  "duration": 3.9
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba723b"
+  },
+  "title": "Vértigo",
+  "genre": "Pop Electrónico",
+  "lyrics": "Me das vértigo con solo mirar\nTus palabras son como saltar\nSin paracaídas, sin red ni razón\nPero igual me lanzo por tu corazón",
+  "duration": 3.5
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba723c"
+  },
+  "title": "A Contraluz",
+  "genre": "Indie Rock",
+  "lyrics": "Eras solo una sombra a contraluz\nPero brillabas más que la cruz\nDonde colgué todos mis miedos\nY volví a creer en lo que no veo",
+  "duration": 4
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba723d"
+  },
+  "title": "Fronteras",
+  "genre": "Reggaetón Melódico",
+  "lyrics": "Rompimos fronteras con un beso\nEl mundo se achicó en tu regreso\nY ya no importa el mapa ni el reloj\nSolo tú, solo yo, y el corazón",
+  "duration": 3.2
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba723e"
+  },
+  "title": "Sombras de Neón",
+  "genre": "Synthwave",
+  "lyrics": "Luces que bailan en el retrovisor\nSombras de neón pintan mi interior\nTus palabras suenan en estéreo azul\nY el pasado me alcanza en cada turn",
+  "duration": 4.2
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba723f"
+  },
+  "title": "Silencio Infinito",
+  "genre": "Acoustic",
+  "lyrics": "Silencio infinito entre los dos\nYa no hay versos, ya no hay voz\nSolo el eco de lo que fue\nY un te quiero que no volveré",
+  "duration": 3.8
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba7240"
+  },
+  "title": "Mar de Fuego",
+  "genre": "Trap Latino",
+  "lyrics": "Tu cuerpo es un mar de fuego\nY yo naufragué en tu juego\nNo hay faro, ni norte, ni razón\nSolo tu ritmo en mi corazón",
+  "duration": 3.1
+},
+{
+  "_id": {
+    "$oid": "689f9f7638c73af69dba7241"
+  },
+  "title": "Desvelo",
+  "genre": "R&B",
+  "lyrics": "Llevo tres noches sin dormir\nPensando en lo que no te dije a ti\nMi almohada sabe de este dolor\nDesvelo con nombre y sabor a amor",
+  "duration": 3.6
+},
+{
+  "_id": {
+    "$oid": "689fa02338c73af69dba7242"
+  },
+  "title": "Café de Madrugada",
+  "genre": "Jazz Pop",
+  "lyrics": "Café de madrugada y tus ojos al mirar\nLa ciudad dormida empieza a respirar\nEntre sorbos lentos te empiezo a olvidar\nPero el aroma insiste en regresar",
+  "duration": 3.8
+},
+{
+  "_id": {
+    "$oid": "689fa02338c73af69dba7243"
+  },
+  "title": "Tinta y Papel",
+  "genre": "Balada Pop",
+  "lyrics": "Tinta y papel, te escribo sin fe\nPalabras que sangran lo que ya no fue\nTe invento en las frases que no vas a leer\nY rompo la hoja antes del amanecer",
+  "duration": 3.5
+},
+{
+  "_id": {
+    "$oid": "689fa02338c73af69dba7244"
+  },
+  "title": "Humo en el Viento",
+  "genre": "Rock en Español",
+  "lyrics": "Eras fuego y me dejaste ceniza\nTu promesa voló como brisa\nAhora soy humo en el viento\nLibre, pero sin cimiento",
+  "duration": 4.1
+},
+{
+  "_id": {
+    "$oid": "689fa02338c73af69dba7245"
+  },
+  "title": "Tu Nombre en la Arena",
+  "genre": "Pop Acústico",
+  "lyrics": "Escribí tu nombre en la arena\nY lo borró la marea sin pena\nComo tú, que llegaste y te fuiste\nDejando el corazón que perdiste",
+  "duration": 3.4
+},
+{
+  "_id": {
+    "$oid": "689fa02338c73af69dba7246"
+  },
+  "title": "Laberinto Azul",
+  "genre": "Synthpop",
+  "lyrics": "Perdido en tu laberinto azul\nTus ojos son trampas, tu boca, un baúl\nDonde guardas promesas que ya no están\nPero igual regreso, me vuelvo a enredar",
+  "duration": 3.9
+},
+{
+  "_id": {
+    "$oid": "689fa02338c73af69dba7247"
+  },
+  "title": "Último Mensaje",
+  "genre": "Trap Melódico",
+  "lyrics": "Este es mi último mensaje\nYa no quiero más sabotaje\nTe escribo y borro, te pienso y callo\nPero mi alma ya no da más fallo",
+  "duration": 3.2
+},
+{
+  "_id": {
+    "$oid": "689fa02338c73af69dba7248"
+  },
+  "title": "Nieve en el Sol",
+  "genre": "Indie Folk",
+  "lyrics": "Como nieve en el sol desapareces\nDibujando silencios que estremecen\nFuiste invierno dentro del verano\nFría y dulce en cada desgano",
+  "duration": 4
+},
+{
+  "_id": {
+    "$oid": "689fa02338c73af69dba7249"
+  },
+  "title": "Ritmo Fantasma",
+  "genre": "Electro Latino",
+  "lyrics": "Baila el ritmo fantasma sin fin\nNo se ve, pero te hace seguir\nLuz estroboscópica en la piel\nY tu sombra se vuelve mi papel",
+  "duration": 3.6
+},
+{
+  "_id": {
+    "$oid": "689fa02338c73af69dba724a"
+  },
+  "title": "Besos en Reverb",
+  "genre": "Dream Pop",
+  "lyrics": "Tus besos suenan en reverb lento\nComo eco en un cuarto sin tiempo\nSusurran lo que nunca pasó\nPero aún me erizan la voz",
+  "duration": 4.1
+},
+{
+  "_id": {
+    "$oid": "689fa02338c73af69dba724b"
+  },
+  "title": "La Puerta que No Abrí",
+  "genre": "Rock Suave",
+  "lyrics": "La puerta que no abrí aún me llama\nSusurra secretos con voz de llama\nNo sé si eras tú o solo el temor\nPero sigo buscando ese color",
+  "duration": 3.7
+}]

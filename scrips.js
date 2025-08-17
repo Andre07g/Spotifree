@@ -29,4 +29,41 @@ db.users.find({
   episodes: { $exists: true, $not: { $size: 0 } }
 })
 
+//🔹 Songs (canciones) 
+
+// 6. Rock songs with "tiempo" in lyrics
+db.songs.find({
+  genre: { $regex: "rock", $options: "i" },
+  lyrics: { $regex: "tiempo", $options: "i" }
+})
+
+// 7. Titles with three words and genre in list
+db.songs.find({
+  title: { $regex: "^(\\w+\\s){2}\\w+$" },
+  genre: { $in: ["Pop Latino", "Indie Rock", "Balada Romántica"] }
+})
+
+// 8. Titles ending in vowel and NOT acoustic
+db.songs.find({
+  title: { $regex: "[aeiouáéíóú]$", $options: "i" },
+  genre: { $nin: ["Acoustic"] }
+})
+
+// 9. Lyrics containing "amor" but title NOT starting with L
+db.songs.find({
+  lyrics: { $regex: "amor", $options: "i" },
+  title: { $not: { $regex: "^L" } }
+})
+
+// 10. Songs with Pop or Rock genre and lyrics mentioning "beso"
+db.songs.find({
+  $or: [
+    { genre: { $regex: "Pop", $options: "i" } },
+    { genre: { $regex: "Rock", $options: "i" } }
+  ],
+  lyrics: { $regex: "beso", $options: "i" }
+})
+
+
+
 

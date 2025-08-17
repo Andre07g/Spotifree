@@ -98,6 +98,36 @@ db.albums.find({
 })
 
 
+// 🔹 Artist (artistas)
+
+// 16. Artists with "Luz" in name and followers between 800k and 1M
+db.artist.find({
+  name: { $regex: "Luz", $options: "i" },
+  followers: { $gte: 800000, $lte: 1000000 }
+})
+
+// 17. Artists starting with vowel and NOT ending in "o"
+db.artist.find({
+  name: { $regex: "^[AEIOUÁÉÍÓÚ]", $options: "i" },
+  name: { $not: { $regex: "o$", $options: "i" } }
+})
+
+// 18. Two-word artist names with followers > 500k
+db.artist.find({
+  name: { $regex: "^\\w+\\s\\w+$" },
+  followers: { $gt: 500000 }
+})
+
+// 19. Artists containing "Sol" or "Luna"
+db.artist.find({
+  name: { $regex: "(Sol|Luna)", $options: "i" }
+})
+
+// 20. Artists ending in vowel and followers NOT in [400k–800k]
+db.artist.find({
+  name: { $regex: "[aeiou]$", $options: "i" },
+  followers: { $nin: [400000, 500000, 600000, 700000, 800000] }
+})
 
 
 

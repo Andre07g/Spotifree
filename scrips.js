@@ -65,5 +65,39 @@ db.songs.find({
 })
 
 
+// 🔹 Albums (albumes)
+
+// 11. Albums with "y" in title and more than 2 songs
+db.albums.find({
+  title: { $regex: "\\sy\\s", $options: "i" },
+  $expr: { $gt: [{ $size: "$songs" }, 2] }
+})
+
+// 12. Albums starting with C and exactly 2 songs
+db.albums.find({
+  title: { $regex: "^C" },
+  songs: { $size: 2 }
+})
+
+// 13. Albums ending in vowel with at least one song
+db.albums.find({
+  title: { $regex: "[aeiou]$", $options: "i" },
+  songs: { $elemMatch: { $exists: true } }
+})
+
+// 14. Albums with 3 words in title and specific songs
+db.albums.find({
+  title: { $regex: "^(\\w+\\s){2}\\w+$" },
+  songs: { $in: [ObjectId("689fa02338c73af69dba7240"), ObjectId("689fa02338c73af69dba7241")] }
+})
+
+// 15. Albums containing "Neón" and max 4 songs
+db.albums.find({
+  title: { $regex: "Neón", $options: "i" },
+  $expr: { $lte: [{ $size: "$songs" }, 4] }
+})
+
+
+
 
 

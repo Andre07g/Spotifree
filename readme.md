@@ -76,3 +76,24 @@ This project can be used as a base for:
 - Queries with regular expressions.  
 - Working with array operators.  
 - Simulating a real streaming system.  
+
+---
+
+## 👩‍💻 Developed by
+
+ * [Karol Reyes](https://github.com/KarolainReyes)
+
+ * [Andres Leal](https://github.com/Andre07g)
+
+---
+
+## 🧩 Requirements
+
+- MongoDB installed locally or access to MongoDB Atlas.
+
+- MongoDB Compass (optional, for visually inspecting collections).
+---
+
+## 📝 License
+
+This project is for educational use. It can be used as a reference for modeling NoSQL databases in MongoDB.

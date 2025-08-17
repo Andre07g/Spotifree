@@ -160,5 +160,36 @@ db.episodes.find({
   title: { $regex: "^[AEIOUÁÉÍÓÚ]", $options: "i" }
 })
 
+// 🔹 Podcasts (podcast)
+
+// 26. Podcasts starting with R and >50k followers
+db.podcasts.find({
+  name: { $regex: "^R" },
+  followers: { $gt: 50000 }
+})
+
+// 27. Podcasts with two-word name and exactly 3 episodes
+db.podcasts.find({
+  name: { $regex: "^\\w+\\s\\w+$" },
+  episodes: { $size: 3 }
+})
+
+// 28. Podcasts with "Hoy" in name and specific episodes
+db.podcasts.find({
+  name: { $regex: "Hoy", $options: "i" },
+  episodes: { $in: [ObjectId("689fa7b31508e8dd55867ed7"), ObjectId("689fa7b31508e8dd55867ed8")] }
+})
+
+// 29. Podcasts NOT starting with vowel and >70k followers
+db.podcasts.find({
+  name: { $not: { $regex: "^[AEIOUÁÉÍÓÚ]", $options: "i" } },
+  followers: { $gt: 70000 }
+})
+
+// 30. Podcasts ending in vowel with at least one episode
+db.podcasts.find({
+  name: { $regex: "[aeiou]$", $options: "i" },
+  episodes: { $elemMatch: { $exists: true } }
+})
 
 

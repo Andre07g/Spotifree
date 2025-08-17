@@ -129,5 +129,36 @@ db.artist.find({
   followers: { $nin: [400000, 500000, 600000, 700000, 800000] }
 })
 
+// 🔹 Episodes (episodios)
+
+// 21. Comedy episodes with "Episodio 1"
+db.episodes.find({
+  category: "Comedy",
+  title: { $regex: "Episodio 1" }
+})
+
+// 22. Episodes ending with odd number
+db.episodes.find({
+  title: { $regex: "[13579]$" }
+})
+
+// 23. Episodes with "Misterios" and duration > 50
+db.episodes.find({
+  title: { $regex: "Misterios", $options: "i" },
+  duration: { $gt: 50 }
+})
+
+// 24. Technology episodes with number 2 in title
+db.episodes.find({
+  category: "Technology",
+  title: { $regex: "2" }
+})
+
+// 25. Episodes NOT Comedy and title starting with vowel
+db.episodes.find({
+  category: { $ne: "Comedy" },
+  title: { $regex: "^[AEIOUÁÉÍÓÚ]", $options: "i" }
+})
+
 
 
